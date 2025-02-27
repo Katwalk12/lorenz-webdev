@@ -1,0 +1,29 @@
+body{
+  
+}
+.c-item{
+  height: 360px;
+  width: 1280px;
+}
+.c-img{
+  height: 100%;
+    
+}
+.container   {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.text {
+  display: flex;
+  margin-left: 20em;
+}
+.animal {
+  display: flex;
+  justify-self: center;
+  margin-right: 19em;
+}
+.human{
+  display: flex;
+  justify-self: center;
+}
